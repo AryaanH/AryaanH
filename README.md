@@ -19,15 +19,15 @@
 <p align="left">
 
   <strong>🏡 AURA – AI Real Estate Copilot</strong>  
-  An Azure-deployed AI Agent trained on Australian property data that explains rent vs buy, suburb affordability and long-term cost insights.  
+  An AI-driven property decision engine that interprets Australian real estate data, runs affordability simulations, compares rent vs buy outcomes, and gives clear, actionable insights through a   deployed Azure AI Agent. 
   <br>
-  <em>Built with:</em> Azure AI Foundry (Agents + Tools), Python, FastAPI, RAG workflow, Docker, Azure Web App, HTML/CSS  
+  <em>Built with:</em> Azure AI Foundry, Python, FastAPI, RAG workflow, Docker, Azure Web App, HTML/CSS  
   <br><br>
 
   <strong>📊 Customer Risk AI – ML Risk Scoring System</strong>  
   A full ML pipeline that predicts customer default risk using a Kaggle dataset, served via a real-time FastAPI `/predict` endpoint.  
   <br>
-  <em>Built with:</em> Python, Pandas, Scikit-learn, EDA, Feature Engineering, Logistic Regression & Tree Models, Docker, FastAPI  
+  <em>Built with:</em> Python, Pandas, PyTorch, Scikit-learn, EDA, Feature Engineering, Logistic Regression & Tree Models, Docker, FastAPI, Power BI  
 </p>
 
 ###
@@ -41,7 +41,7 @@
   <br>
   🤖 <strong>AI Engineering:</strong> Azure AI Agents, tool calling, RAG basics  
   <br>
-  📈 <strong>Machine Learning & Data:</strong> EDA, data cleaning, feature engineering, model training & evaluation  
+  📈 <strong>Machine Learning & Data:</strong> Power BI, EDA, data cleaning, feature engineering, model training & evaluation  
   <br>
   🧩 <strong>Backend:</strong> Python, FastAPI, REST APIs, Docker  
   <br>
