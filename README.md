@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-  Cloud & AI/ML Engineer based in Melbourne  
+  Cloud & Automation Engineer based in Melbourne  
   <br>
   Software Engineering @ Monash  
   <br>
-  I build end-to-end systems across Cloud, AI Agents, Machine Learning, Data Engineering, and Backend APIs.
+  I build end-to-end systems across Cloud and automate it.
 </p>
 
 ###
